@@ -42,5 +42,35 @@
             "mun":"CURITIBA",
             "uf":"PR"
         }
+    },
+    {
+        "model": "produtos.estabelecimento",
+        "pk": "07012e3f-57d7-418d-aa26-d05c27471d58",
+        "fields": {
+            "nm_fan":"MUFFATO",
+            "nm_emp":"IRMAOS MUFFATO & CIA LTDA",
+            "tp_logr":"RUA",
+            "nm_logr":"EDUARDO CARLOS PEREIRA",
+            "nr_logr":"3605",
+            "complemento":"",
+            "bairro":"PORTAO",
+            "mun":"CURITIBA",
+            "uf":"PR"
+        }
+    },
+    {
+        "model": "produtos.estabelecimento",
+        "pk": "07012e3f-57d7-418d-aa26-d05c27471d58",
+        "fields": {
+            "nm_fan":"CONDOR SUPER CENTER",
+            "nm_emp":"CONDOR SUPER CENTER LTDA",
+            "tp_logr":"RUA",
+            "nm_logr":"LODOVICO GERONAZZO",
+            "nr_logr":"805",
+            "complemento":"",
+            "bairro":"BOA VISTA",
+            "mun":"CURITIBA",
+            "uf":"PR"
+        }
     }
 ]
