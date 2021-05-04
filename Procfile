@@ -1,3 +1,2 @@
-release: cd src/
-release: python3 manage.py migrate
+release: python3 src/manage.py migrate
 web: gunicorn api.wsgi --preload --log-file -
