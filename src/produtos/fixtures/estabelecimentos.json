@@ -1,0 +1,46 @@
+[
+    {
+        "model": "produtos.estabelecimento",
+        "pk": "38c550c7-23c4-4e21-8b42-40fb329e6f7b",
+        "fields": {
+            "nm_fan": "FESTVAL ESTACAO",
+            "nm_emp": "FESTVAL ESTACAO",
+            "tp_logr": "AV",
+            "nm_logr": "SILVA JARDIM",
+            "nr_logr": 506,
+            "bairro": "REBOUCAS",
+            "mun": "CURITIBA",
+            "uf": "PR"
+        }
+    },
+    {
+        "model": "produtos.estabelecimento",
+        "pk": "66289ac4-58c0-493a-8d54-2eda92aa1a75",
+        "fields": {
+            "nm_fan":"ANGELONI SUPERMERCADOS",
+            "nm_emp":"A ANGELONI & CIA LTDA",
+            "tp_logr":"AV",
+            "nm_logr":"REP ARGENTINA",
+            "nr_logr": 900,
+            "complemento":"",
+            "bairro":"AGUA VERDE",
+            "mun":"CURITIBA",
+            "uf":"PR"
+        }
+    },
+    {
+        "model": "produtos.estabelecimento",
+        "pk": "2bd66ad6-35e8-4b1d-aa13-631a20325750",
+        "fields": {
+            "nm_fan":"CONDOR HIPERMERCADOS",
+            "nm_emp":"CONDOR SUPER CENTER LTDA",
+            "tp_logr":"RUA",
+            "nm_logr":"NILO PECANHA",
+            "nr_logr": 1000,
+            "complemento":"",
+            "bairro":"SAO FRANCISCO",
+            "mun":"CURITIBA",
+            "uf":"PR"
+        }
+    }
+]

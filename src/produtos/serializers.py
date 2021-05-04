@@ -6,6 +6,8 @@ class EstabelecimentoSerializer(serializers.ModelSerializer):
     class Meta:
         model = Estabelecimento
         fields = '__all__'
+
+
 class ProdutoSerializer(serializers.ModelSerializer):
     estabelecimento = EstabelecimentoSerializer(required=False, read_only=True)
     class Meta:
