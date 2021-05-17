@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
+    'django_filters',
     'produtos'
 ]
 
@@ -76,7 +77,10 @@ TEMPLATES = [
 REST_FRAMEWORK = {
     'DEFAULT_PERMISSION_CLASSES': [
         'rest_framework.permissions.IsAuthenticatedOrReadOnly',
-    ]
+    ],
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.LimitOffsetPagination',
+    'PAGE_SIZE': 50,
+    'DEFAULT_FILTER_BACKENDS': ['django_filters.rest_framework.DjangoFilterBackend'],
 }
 
 WSGI_APPLICATION = 'api.wsgi.application'
@@ -93,6 +97,11 @@ DATABASES = {
         'PASSWORD': 'p73W54ARuE8oM6oi',
         'HOST': '144.91.110.253',   # Or an IP Address that your DB is hosted on
         'PORT': '3306',
+        # 'NAME': 'api',
+        # 'USER': 'admin',
+        # 'PASSWORD': 'admin',
+        # 'HOST': '0.0.0.0',   # Or an IP Address that your DB is hosted on
+        # 'PORT': '3306',
     }
 }
 

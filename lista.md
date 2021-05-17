@@ -1,0 +1,21 @@
+# lista de produtos
+### https://menorpreco.notaparana.pr.gov.br/api/v1/produtos?local=6gkzqf9vb&termo=leite%20tirol
+- [x] leite
+- [x] cafe
+- [x] arroz
+- [x] feijão
+- [x] óleo
+- [x] açucar
+- [x] molho de tomate
+- [x] macarrão espaguete
+- [x] macarrão parafuso
+- [x] sardinha
+- [x] atum
+- [x] farinha de trigo
+- [x] farinha de mandioca
+- [x] sal marinho
+- [x] pão de forma
+- [x] margarina
+- [ ] leite em pó
+- [ ] bolacha agua e sal
+- [ ] bolacha maizena

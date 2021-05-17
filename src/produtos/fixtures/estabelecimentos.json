@@ -72,5 +72,20 @@
             "mun":"CURITIBA",
             "uf":"PR"
         }
+    },
+    {   
+        "model": "produtos.estabelecimento",
+        "pk": "07012e3f-57d7-418d-aa26-d05c27471d59",
+        "fields": {
+            "nm_fan": "CARREFOUR COMERCIO E INDUSTRIA",
+            "nm_emp": "CARREFOUR COMERCIO E INDUSTRIA LTDA",
+            "tp_logr": "RUA",
+            "nm_logr": "MARECHAL FLORIANO PEIXOTO",
+            "nr_logr": "3031",
+            "complemento": "",
+            "bairro": "REBOUCAS",
+            "mun": "CURITIBA",
+            "uf": "PR"
+        }
     }
 ]
