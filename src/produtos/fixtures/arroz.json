@@ -1,0 +1,688 @@
+[
+    {
+        "model": "produtos.produto",
+        "pk": "dc1426c9-77e4-49b7-af1d-687aa5afd01f",
+        "fields": {
+            "local": "6gkzq311qj0",
+            "desc": "ARROZ KIKA BRANCO T1 PCT 1KG",
+            "valor_desconto": "1.30",
+            "valor_tabela": "4.29",
+            "valor": "2.99",
+            "datahora": "2021-05-08T21:56:34.359Z",
+            "tempo": "há 3 dias",
+            "estabelecimento": "66289ac4-58c0-493a-8d54-2eda92aa1a75"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "33b6efaa-206c-4c12-b63b-7eb4fbecb7a8",
+        "fields": {
+            "local": "6gmp8z2bxx0",
+            "desc": "ARROZ TIPO 1 INTEGRAL 1KG TIO JOAO",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.99",
+            "valor": "2.99",
+            "datahora": "2021-04-26T18:27:32.288Z",
+            "tempo": "há 15 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "0869378e-2ed4-49ec-b596-44164c195769",
+        "fields": {
+            "local": "6gmp2p0yvf0",
+            "desc": "ARROZ 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "3.06",
+            "valor": "3.06",
+            "datahora": "2021-05-10T23:46:20.983Z",
+            "tempo": "há 14 horas",
+            "estabelecimento": "66289ac4-58c0-493a-8d54-2eda92aa1a75"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "b240ffbb-a8d2-4a33-bbff-fcf57d6fdb69",
+        "fields": {
+            "local": "6gmp0xszh90",
+            "desc": "ARROZ 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "3.06",
+            "valor": "3.06",
+            "datahora": "2021-05-10T22:03:21.852Z",
+            "tempo": "há 15 horas",
+            "estabelecimento": "2bd66ad6-35e8-4b1d-aa13-631a20325750"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "9cdc033f-31cb-4529-9696-4346f83cb9dd",
+        "fields": {
+            "local": "6gkyykhgen0",
+            "desc": "ARROZ 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "3.06",
+            "valor": "3.06",
+            "datahora": "2021-05-11T12:07:38.488Z",
+            "tempo": "há uma hora",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "9d65b858-647b-4bb0-b410-6787aabce96d",
+        "fields": {
+            "local": "6gmnbffudg0",
+            "desc": "ARROZ 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "3.06",
+            "valor": "3.06",
+            "datahora": "2021-05-10T15:31:37.372Z",
+            "tempo": "há um dia",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "55dd448a-9170-4642-9137-71b0390a0afc",
+        "fields": {
+            "local": "6gkzqvzm8r0",
+            "desc": "ARROZ 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "3.10",
+            "valor": "3.10",
+            "datahora": "2021-05-11T12:40:40.713Z",
+            "tempo": "há 41 minutos",
+            "estabelecimento": "66289ac4-58c0-493a-8d54-2eda92aa1a75"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "43e51982-fed4-4ad2-9aa3-5a89a73f13ea",
+        "fields": {
+            "local": "6gkzn3u7zf0",
+            "desc": "ARROZ 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "3.10",
+            "valor": "3.10",
+            "datahora": "2021-05-11T13:13:59.181Z",
+            "tempo": "há 7 minutos",
+            "estabelecimento": "2bd66ad6-35e8-4b1d-aa13-631a20325750"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "6b9c667a-c5be-4a32-8ee7-40f2650b1922",
+        "fields": {
+            "local": "6gkzp2gs370",
+            "desc": "ARROZ 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "3.10",
+            "valor": "3.10",
+            "datahora": "2021-05-10T20:28:45.731Z",
+            "tempo": "há 17 horas",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "542cef87-12b6-49ea-b2aa-258fdf035e99",
+        "fields": {
+            "local": "6gkzmn1dzn0",
+            "desc": "ARROZ 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "3.10",
+            "valor": "3.10",
+            "datahora": "2021-05-08T18:14:48.381Z",
+            "tempo": "há 3 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "b48a21a2-1ee9-4f67-8137-1814576a3fec",
+        "fields": {
+            "local": "6gmn8w8sh10",
+            "desc": "ARROZ 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "3.10",
+            "valor": "3.10",
+            "datahora": "2021-05-10T17:00:15.423Z",
+            "tempo": "há 20 horas",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "101a4150-9bf7-43f9-9c7a-8960898dad99",
+        "fields": {
+            "local": "6gkzrfbh7b0",
+            "desc": "ARROZ 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "3.11",
+            "valor": "3.11",
+            "datahora": "2021-05-10T19:01:12.093Z",
+            "tempo": "há 18 horas",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "4fddf330-c927-405c-99e3-db9fcd9cc824",
+        "fields": {
+            "local": "6gkzhy0qn20",
+            "desc": "ARROZ 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "3.16",
+            "valor": "3.16",
+            "datahora": "2021-05-10T22:47:41.269Z",
+            "tempo": "há 15 horas",
+            "estabelecimento": "2bd66ad6-35e8-4b1d-aa13-631a20325750"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "7518b260-c7ea-4e99-a55a-41cc6484614d",
+        "fields": {
+            "local": "6gmn8w6szj0",
+            "desc": "ARROZ URBANO PARB VITAMINADO PCT 1KG",
+            "valor_desconto": "1.55",
+            "valor_tabela": "4.75",
+            "valor": "3.20",
+            "datahora": "2021-05-08T17:34:36.530Z",
+            "tempo": "há 3 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "f85270f1-a5cf-4b5c-90e1-40699374f33b",
+        "fields": {
+            "local": "6gkywtfgkc0",
+            "desc": "ARROZ BURITI 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "3.30",
+            "valor": "3.30",
+            "datahora": "2021-05-05T11:29:33.133Z",
+            "tempo": "há 6 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d59"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "256cb68a-f2f6-4546-8116-a07a4467e45d",
+        "fields": {
+            "local": "6gkzq1d10t0",
+            "desc": "ARROZ CAIPIRA PARB 1KG",
+            "valor_desconto": "0.26",
+            "valor_tabela": "3.99",
+            "valor": "3.73",
+            "datahora": "2021-05-05T14:13:39.282Z",
+            "tempo": "há 6 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d59"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "0fcc19e5-c455-45ea-b1a7-80e1d8f3115b",
+        "fields": {
+            "local": "6gmp2d0zkn0",
+            "desc": "ARROZ PARBOILIZADO 1KG CB 01X1000GR",
+            "valor_desconto": "0.00",
+            "valor_tabela": "3.73",
+            "valor": "3.73",
+            "datahora": "2021-05-10T16:24:00.708Z",
+            "tempo": "há 21 horas",
+            "estabelecimento": "66289ac4-58c0-493a-8d54-2eda92aa1a75"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "bf566271-8fd9-453d-9dd4-ab0680958cb0",
+        "fields": {
+            "local": "6gkzhy0qn20",
+            "desc": "ARROZ BUTUI 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "3.79",
+            "valor": "3.79",
+            "datahora": "2021-05-06T14:19:48.708Z",
+            "tempo": "há 5 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "871d04b8-50e8-4122-b6f7-67ff6e1377d2",
+        "fields": {
+            "local": "6gkzq1b4q80",
+            "desc": "ARROZ KIKA PARB T1 PCT 1KG",
+            "valor_desconto": "0.50",
+            "valor_tabela": "4.39",
+            "valor": "3.89",
+            "datahora": "2021-05-10T17:58:48.358Z",
+            "tempo": "há 19 horas",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "6eb3ec41-df63-4034-8891-8f7731749308",
+        "fields": {
+            "local": "6gkznfhvhy0",
+            "desc": "ARROZ BURITI BRANCO T 1 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "3.89",
+            "valor": "3.89",
+            "datahora": "2021-05-05T22:28:40.743Z",
+            "tempo": "há 6 dias",
+            "estabelecimento": "38c550c7-23c4-4e21-8b42-40fb329e6f7b"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "0d5f9108-a4cd-4d88-babf-57cee085eb87",
+        "fields": {
+            "local": "6gkzq89gyh0",
+            "desc": "K ARROZ TIO JOAO PARB 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "3.99",
+            "valor": "3.99",
+            "datahora": "2021-05-11T10:29:52.539Z",
+            "tempo": "há 3 horas",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "6b7843ca-5275-4e4d-871e-583a39060db3",
+        "fields": {
+            "local": "6gkzqtzuvj0",
+            "desc": "ARROZ CAIPIRA PARB 1KG",
+            "valor_desconto": "0.20",
+            "valor_tabela": "4.19",
+            "valor": "3.99",
+            "datahora": "2021-05-11T12:35:00.669Z",
+            "tempo": "há uma hora",
+            "estabelecimento": "66289ac4-58c0-493a-8d54-2eda92aa1a75"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "e0ff253b-aa66-4f28-a0e7-6227bc1b1826",
+        "fields": {
+            "local": "6gkzqy1dbm0",
+            "desc": "K ARROZ TIO JOAO PARB 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "3.99",
+            "valor": "3.99",
+            "datahora": "2021-05-11T13:18:56.064Z",
+            "tempo": "há 2 minutos",
+            "estabelecimento": "2bd66ad6-35e8-4b1d-aa13-631a20325750"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "6bd16cf8-b7c8-4d75-be4e-3045fdd8dda8",
+        "fields": {
+            "local": "6gkzr3srd80",
+            "desc": "ARROZ CAIPIRA PARB 1KG",
+            "valor_desconto": "0.20",
+            "valor_tabela": "4.19",
+            "valor": "3.99",
+            "datahora": "2021-05-11T10:21:38.360Z",
+            "tempo": "há 3 horas",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "02ff5d1f-2899-459f-9277-20ac81a90991",
+        "fields": {
+            "local": "6gkznw7v2g0",
+            "desc": "ARROZ CAIPIRA PARB 1KG",
+            "valor_desconto": "0.20",
+            "valor_tabela": "4.19",
+            "valor": "3.99",
+            "datahora": "2021-05-10T22:12:17.123Z",
+            "tempo": "há 15 horas",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d59"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "55cf2166-e1a5-4fdb-80b2-1a52724af6bb",
+        "fields": {
+            "local": "6gkzmc6kcf0",
+            "desc": "K ARROZ TIO JOAO PARB 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "3.99",
+            "valor": "3.99",
+            "datahora": "2021-05-11T00:53:54.949Z",
+            "tempo": "há 12 horas",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "9cf4ad31-2268-4910-ab60-0828e4ac419e",
+        "fields": {
+            "local": "6gkzwd1h6s0",
+            "desc": "ARROZ CAIPIRA PARB 1KG",
+            "valor_desconto": "0.20",
+            "valor_tabela": "4.19",
+            "valor": "3.99",
+            "datahora": "2021-05-11T12:39:11.129Z",
+            "tempo": "há 42 minutos",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "fe4ca69e-a667-4e13-a07a-6419ca4b00ea",
+        "fields": {
+            "local": "6gkzx6m3190",
+            "desc": "ARROZ CAIPIRA PARB 1KG",
+            "valor_desconto": "0.20",
+            "valor_tabela": "4.19",
+            "valor": "3.99",
+            "datahora": "2021-05-09T17:12:56.362Z",
+            "tempo": "há 2 dias",
+            "estabelecimento": "66289ac4-58c0-493a-8d54-2eda92aa1a75"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "cdc81023-eefb-41fb-9c38-a3a75852372a",
+        "fields": {
+            "local": "6gkzn439nc0",
+            "desc": "ARROZ BURITI 1KG",
+            "valor_desconto": "0.30",
+            "valor_tabela": "4.29",
+            "valor": "3.99",
+            "datahora": "2021-05-06T15:42:08.300Z",
+            "tempo": "há 5 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "86a25c2b-03cb-4dc3-b9f1-e22a436b1c3d",
+        "fields": {
+            "local": "6gkzjt5b660",
+            "desc": "ARROZ CAIPIRA PARB 1KG",
+            "valor_desconto": "0.20",
+            "valor_tabela": "4.19",
+            "valor": "3.99",
+            "datahora": "2021-05-11T00:51:00.753Z",
+            "tempo": "há 13 horas",
+            "estabelecimento": "2bd66ad6-35e8-4b1d-aa13-631a20325750"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "e7f0d910-5023-4e93-bed4-ec9a03fbaf30",
+        "fields": {
+            "local": "6gmp0nqcs80",
+            "desc": "ARROZ CAIPIRA PARB 1KG",
+            "valor_desconto": "0.20",
+            "valor_tabela": "4.19",
+            "valor": "3.99",
+            "datahora": "2021-05-10T22:19:19.402Z",
+            "tempo": "há 15 horas",
+            "estabelecimento": "66289ac4-58c0-493a-8d54-2eda92aa1a75"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "2494c335-0157-434f-bef9-609bfa3dc64c",
+        "fields": {
+            "local": "6gmp0hvkku0",
+            "desc": "ARROZ INT PRATO FINO 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "3.99",
+            "valor": "3.99",
+            "datahora": "2021-05-08T15:54:03.282Z",
+            "tempo": "há 3 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "f87d1de5-308c-4b5c-9f63-aee5052318cf",
+        "fields": {
+            "local": "6gkzn02u6y0",
+            "desc": "ARROZ CAIPIRA PARB 1KG",
+            "valor_desconto": "0.20",
+            "valor_tabela": "4.19",
+            "valor": "3.99",
+            "datahora": "2021-05-11T12:49:04.188Z",
+            "tempo": "há 32 minutos",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "a0091a21-a079-4639-9374-9277b225599f",
+        "fields": {
+            "local": "6gmp84cwq20",
+            "desc": "ARROZ BURITI 1KG",
+            "valor_desconto": "0.30",
+            "valor_tabela": "4.29",
+            "valor": "3.99",
+            "datahora": "2021-05-10T22:04:53.564Z",
+            "tempo": "há 15 horas",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d59"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "570c2840-39b1-4081-a5b7-a38687e4a83a",
+        "fields": {
+            "local": "6gkyzrnvd80",
+            "desc": "ARROZ CAIPIRA PARB 1KG",
+            "valor_desconto": "0.20",
+            "valor_tabela": "4.19",
+            "valor": "3.99",
+            "datahora": "2021-05-10T23:28:45.422Z",
+            "tempo": "há 14 horas",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "0125e1b1-c1ef-4153-94b8-028a7251fb8e",
+        "fields": {
+            "local": "6gmp2d0zkn0",
+            "desc": "ARROZ URBANO PARBOILIZADO 1KG AMARELO 01X1000G",
+            "valor_desconto": "0.00",
+            "valor_tabela": "3.99",
+            "valor": "3.99",
+            "datahora": "2021-05-10T18:15:24.132Z",
+            "tempo": "há 19 horas",
+            "estabelecimento": "38c550c7-23c4-4e21-8b42-40fb329e6f7b"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "02bf2a0f-78e5-45f5-a94c-ebe61bbc5b2b",
+        "fields": {
+            "local": "6gkzpcjmmu0",
+            "desc": "ARROZ CAIPIRA PARB 1KG",
+            "valor_desconto": "0.20",
+            "valor_tabela": "4.19",
+            "valor": "3.99",
+            "datahora": "2021-05-08T17:02:58.628Z",
+            "tempo": "há 3 dias",
+            "estabelecimento": "2bd66ad6-35e8-4b1d-aa13-631a20325750"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "c6ace455-1244-4033-aa42-b1073b055fe2",
+        "fields": {
+            "local": "6gkzxumf410",
+            "desc": "ARROZ CAIPIRA PARB 1KG",
+            "valor_desconto": "0.20",
+            "valor_tabela": "4.19",
+            "valor": "3.99",
+            "datahora": "2021-05-10T19:19:10.894Z",
+            "tempo": "há 18 horas",
+            "estabelecimento": "66289ac4-58c0-493a-8d54-2eda92aa1a75"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "26e2deb2-41d5-4fd2-aea4-074d172338b7",
+        "fields": {
+            "local": "6gkzmh169u0",
+            "desc": "ARROZ CAIPIRA PARB 1KG",
+            "valor_desconto": "0.20",
+            "valor_tabela": "4.19",
+            "valor": "3.99",
+            "datahora": "2021-05-11T12:59:29.260Z",
+            "tempo": "há 22 minutos",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "e6c0ec1d-6092-4cc4-9f49-748d97e10fe1",
+        "fields": {
+            "local": "6gkyvyuxzc0",
+            "desc": "ARROZ SABOR SUL 1KG PA",
+            "valor_desconto": "0.00",
+            "valor_tabela": "3.99",
+            "valor": "3.99",
+            "datahora": "2021-05-06T13:38:03.683Z",
+            "tempo": "há 5 dias",
+            "estabelecimento": "38c550c7-23c4-4e21-8b42-40fb329e6f7b"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "9793f303-f77a-407a-a5fd-80629737c7f1",
+        "fields": {
+            "local": "6gkzjhgy0j0",
+            "desc": "ARROZ CAIPIRA PARB 1KG",
+            "valor_desconto": "0.20",
+            "valor_tabela": "4.19",
+            "valor": "3.99",
+            "datahora": "2021-05-10T15:27:06.163Z",
+            "tempo": "há um dia",
+            "estabelecimento": "38c550c7-23c4-4e21-8b42-40fb329e6f7b"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "40c58261-caa0-47b3-b689-b9b2a54aff7f",
+        "fields": {
+            "local": "6gkyynh0tz0",
+            "desc": "ARROZ CAIPIRA PARB 1KG",
+            "valor_desconto": "0.20",
+            "valor_tabela": "4.19",
+            "valor": "3.99",
+            "datahora": "2021-05-10T22:06:43.648Z",
+            "tempo": "há 15 horas",
+            "estabelecimento": "66289ac4-58c0-493a-8d54-2eda92aa1a75"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "08121247-afe7-4124-9c2c-607d0a7d3bbb",
+        "fields": {
+            "local": "6gmp0xsk4w0",
+            "desc": "ARROZ CAIPIRA PARB 1KG",
+            "valor_desconto": "0.20",
+            "valor_tabela": "4.19",
+            "valor": "3.99",
+            "datahora": "2021-05-09T19:21:47.844Z",
+            "tempo": "há 2 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "c787a10a-f325-4e17-b6e0-d8b1b8439f03",
+        "fields": {
+            "local": "6gkzt11c460",
+            "desc": "ARROZ CAIPIRA PARB 1KG",
+            "valor_desconto": "0.20",
+            "valor_tabela": "4.19",
+            "valor": "3.99",
+            "datahora": "2021-05-10T21:15:45.662Z",
+            "tempo": "há 16 horas",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "9c0fdff0-1a4d-495e-865a-041c64ad0c96",
+        "fields": {
+            "local": "6gkyvx5wq80",
+            "desc": "ARROZ CAIPIRA PARB 1KG",
+            "valor_desconto": "0.20",
+            "valor_tabela": "4.19",
+            "valor": "3.99",
+            "datahora": "2021-05-10T20:36:26.282Z",
+            "tempo": "há 17 horas",
+            "estabelecimento": "2bd66ad6-35e8-4b1d-aa13-631a20325750"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "b7f3ef81-fd31-44e4-9c5b-54868639c7f5",
+        "fields": {
+            "local": "6gmp2u5jc20",
+            "desc": "ARROZ CAIPIRA PARB 1KG",
+            "valor_desconto": "0.20",
+            "valor_tabela": "4.19",
+            "valor": "3.99",
+            "datahora": "2021-05-11T00:39:16.543Z",
+            "tempo": "há 13 horas",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d59"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "03e03465-f9ff-41bf-bf1d-3bd68d71ca4f",
+        "fields": {
+            "local": "6gmp2z6n580",
+            "desc": "ARROZ DALFOVO BRAN 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "3.99",
+            "valor": "3.99",
+            "datahora": "2021-05-02T14:57:03.286Z",
+            "tempo": "há 9 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d59"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "4dd8983f-c31d-4105-a246-bc4307715825",
+        "fields": {
+            "local": "6gkyz4ug140",
+            "desc": "ARROZ CAIPIRA PARB 1KG",
+            "valor_desconto": "0.20",
+            "valor_tabela": "4.19",
+            "valor": "3.99",
+            "datahora": "2021-05-11T10:29:09.508Z",
+            "tempo": "há 3 horas",
+            "estabelecimento": "2bd66ad6-35e8-4b1d-aa13-631a20325750"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "c223adb6-d9be-4e7e-bd30-3e3e04fd3a52",
+        "fields": {
+            "local": "6gkyy5p0450",
+            "desc": "ARROZ CAIPIRA PARB 1KG",
+            "valor_desconto": "0.20",
+            "valor_tabela": "4.19",
+            "valor": "3.99",
+            "datahora": "2021-05-11T12:44:04.821Z",
+            "tempo": "há 37 minutos",
+            "estabelecimento": "66289ac4-58c0-493a-8d54-2eda92aa1a75"
+        }
+    }
+]
