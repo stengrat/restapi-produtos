@@ -1,0 +1,660 @@
+[
+    {
+        "model": "produtos.produto",
+        "pk": "e3d25a09-45c2-448a-a2ce-2188a138f7a8",
+        "fields": {
+            "local": "6gkzm9n0zd0",
+            "desc": "FEIJAO PR BROT L 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "3.29",
+            "valor": "3.29",
+            "datahora": "2021-04-27T13:13:10.163Z",
+            "tempo": "há 14 dias",
+            "estabelecimento": "2bd66ad6-35e8-4b1d-aa13-631a20325750"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "5216e4fb-bb16-49d2-9ba7-5f89af4b4cc8",
+        "fields": {
+            "local": "6gkzx6m3190",
+            "desc": "FEIJAO NAMORADO PTO 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "3.99",
+            "valor": "3.99",
+            "datahora": "2021-05-10T18:23:46.046Z",
+            "tempo": "há 19 horas",
+            "estabelecimento": "38c550c7-23c4-4e21-8b42-40fb329e6f7b"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "3b3bce1b-eeea-41a2-95db-7045c7ef8f32",
+        "fields": {
+            "local": "6gkyz4ug140",
+            "desc": "FEIJAO NAMORADO PTO 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "3.99",
+            "valor": "3.99",
+            "datahora": "2021-05-09T20:25:07.856Z",
+            "tempo": "há 2 dias",
+            "estabelecimento": "66289ac4-58c0-493a-8d54-2eda92aa1a75"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "244a2f1b-9db9-4d5a-85b8-1c1c43f19805",
+        "fields": {
+            "local": "6gkzydy2rh0",
+            "desc": "FEIJAO REI DA MESA BRANCO 1KG",
+            "valor_desconto": "4.00",
+            "valor_tabela": "7.99",
+            "valor": "3.99",
+            "datahora": "2021-05-10T21:17:42.459Z",
+            "tempo": "há 16 horas",
+            "estabelecimento": "66289ac4-58c0-493a-8d54-2eda92aa1a75"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "fafb2690-4548-44cd-ab16-11815c2e5024",
+        "fields": {
+            "local": "6gkzrdymcp0",
+            "desc": "FEIJAO MALU PRTO 1KG",
+            "valor_desconto": "1.16",
+            "valor_tabela": "5.77",
+            "valor": "4.61",
+            "datahora": "2021-05-11T12:25:55.153Z",
+            "tempo": "há uma hora",
+            "estabelecimento": "66289ac4-58c0-493a-8d54-2eda92aa1a75"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "352d757a-ae78-43a4-b770-75727c3022f6",
+        "fields": {
+            "local": "6gkzwfhsgc0",
+            "desc": "K FEIJAO RESERVA PRETO TP 1 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "4.89",
+            "valor": "4.89",
+            "datahora": "2021-05-08T20:26:00.645Z",
+            "tempo": "há 3 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d59"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "9bf7a0cc-d378-4b14-ba14-cf6ee73712d6",
+        "fields": {
+            "local": "6gmp22rr1k0",
+            "desc": "FEIJAO DA HORA 1KG BRANC",
+            "valor_desconto": "0.00",
+            "valor_tabela": "4.99",
+            "valor": "4.99",
+            "datahora": "2021-05-02T14:44:34.671Z",
+            "tempo": "há 9 dias",
+            "estabelecimento": "38c550c7-23c4-4e21-8b42-40fb329e6f7b"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "e00e32ec-6809-4b84-bd3e-19d94f0f776e",
+        "fields": {
+            "local": "6gmp3h8xqh0",
+            "desc": "FEIJAO DA HORA 1KG BRANC",
+            "valor_desconto": "0.00",
+            "valor_tabela": "4.99",
+            "valor": "4.99",
+            "datahora": "2021-05-05T16:37:10.258Z",
+            "tempo": "há 6 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "6f2f2afb-a4fa-4a60-b800-645e4e8d3477",
+        "fields": {
+            "local": "6gmp22rr1k0",
+            "desc": "FEIJAO REI DA MASSA 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.29",
+            "valor": "5.29",
+            "datahora": "2021-04-28T19:20:13.497Z",
+            "tempo": "há 13 dias",
+            "estabelecimento": "38c550c7-23c4-4e21-8b42-40fb329e6f7b"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "670af266-db0b-4a98-8b22-8dd6e5e2b4a4",
+        "fields": {
+            "local": "6gmp05rsb40",
+            "desc": "FEIJAO 1KG SUPER CALDO",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.49",
+            "valor": "5.49",
+            "datahora": "2021-05-11T13:06:23.224Z",
+            "tempo": "há 18 minutos",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d59"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "f6f0b23a-fddd-4e81-ab34-4d6cdbd85ec3",
+        "fields": {
+            "local": "6gmp8jq6dm0",
+            "desc": "FEIJAO DA HORA CARIOCA 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.49",
+            "valor": "5.49",
+            "datahora": "2021-04-26T18:35:56.034Z",
+            "tempo": "há 15 dias",
+            "estabelecimento": "66289ac4-58c0-493a-8d54-2eda92aa1a75"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "65c8e237-d178-49fa-a0ed-4a6f0bbad9dd",
+        "fields": {
+            "local": "6gmp8jzmwr0",
+            "desc": "FEIJAO B GARFO 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.49",
+            "valor": "5.49",
+            "datahora": "2021-05-11T12:14:36.067Z",
+            "tempo": "há uma hora",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d59"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "1cacfaf9-852f-48f5-a73c-5cb840f09a8a",
+        "fields": {
+            "local": "6gmp8nwnqq0",
+            "desc": "FEIJAO B GARFO 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.49",
+            "valor": "5.49",
+            "datahora": "2021-05-11T13:12:53.701Z",
+            "tempo": "há 11 minutos",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "41f55d41-5fa7-467d-b2d4-0d47bfb2bbff",
+        "fields": {
+            "local": "6gkzqbvx1n0",
+            "desc": "FEIJAO RESERVA PRETO TP 1 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.69",
+            "valor": "5.69",
+            "datahora": "2021-04-28T19:20:46.792Z",
+            "tempo": "há 13 dias",
+            "estabelecimento": "38c550c7-23c4-4e21-8b42-40fb329e6f7b"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "c5b3f4bb-535d-435f-9395-fa62e2a838a3",
+        "fields": {
+            "local": "6gkzq89gyh0",
+            "desc": "K FEIJAO PE VERMELHO PRETO TP 1 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.69",
+            "valor": "5.69",
+            "datahora": "2021-05-11T10:29:52.539Z",
+            "tempo": "há 3 horas",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "8b53f19b-1b93-4008-89ad-0b4defbcfd69",
+        "fields": {
+            "local": "6gkzq89gyh0",
+            "desc": "FEIJAO RESERVA PRETO TP 1 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.69",
+            "valor": "5.69",
+            "datahora": "2021-05-03T12:01:20.934Z",
+            "tempo": "há 8 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "6daf0cdf-d0ef-4543-a50b-dd378d628597",
+        "fields": {
+            "local": "6gkzqk4sdh0",
+            "desc": "FEIJAO RESERVA PRETO TP 1 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.69",
+            "valor": "5.69",
+            "datahora": "2021-05-01T16:25:29.906Z",
+            "tempo": "há 10 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "68cedea0-46ff-4810-ba20-8ad0b6534998",
+        "fields": {
+            "local": "6gkznqvt1d0",
+            "desc": "K FEIJAO PE VERMELHO PRETO TP 1 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.69",
+            "valor": "5.69",
+            "datahora": "2021-05-11T12:07:02.831Z",
+            "tempo": "há uma hora",
+            "estabelecimento": "66289ac4-58c0-493a-8d54-2eda92aa1a75"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "1528b309-36f1-4567-b24e-653e8b622b0e",
+        "fields": {
+            "local": "6gmp20xer60",
+            "desc": "FEIJAO DA HORA 1KG BRANC",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.69",
+            "valor": "5.69",
+            "datahora": "2021-05-09T13:14:39.670Z",
+            "tempo": "há 2 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "f736cc63-6354-4235-9ccf-5682fa8dbbae",
+        "fields": {
+            "local": "6gmp9juyud0",
+            "desc": "FEIJAO DA HORA 1KG BRANC",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.69",
+            "valor": "5.69",
+            "datahora": "2021-05-08T18:13:32.131Z",
+            "tempo": "há 3 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "0de0aa48-3377-457d-809a-4c85e48a90d2",
+        "fields": {
+            "local": "6gkyt76vxy0",
+            "desc": "FEIJAO PAULINHO 1KG",
+            "valor_desconto": "0.27",
+            "valor_tabela": "5.99",
+            "valor": "5.72",
+            "datahora": "2021-05-05T22:03:09.128Z",
+            "tempo": "há 6 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d59"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "1042d560-6287-432c-9faa-e3f45f5c6011",
+        "fields": {
+            "local": "6gkyt76vxy0",
+            "desc": "FEIJAO PAULINHO 1KG",
+            "valor_desconto": "0.27",
+            "valor_tabela": "5.99",
+            "valor": "5.72",
+            "datahora": "2021-05-05T22:03:09.128Z",
+            "tempo": "há 6 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "7a38a9db-589c-4b83-9c1b-99ab907ccfbf",
+        "fields": {
+            "local": "6gkzrdymcp0",
+            "desc": "FEIJAO MALU BRAN 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.77",
+            "valor": "5.77",
+            "datahora": "2021-05-11T11:51:59.780Z",
+            "tempo": "há 2 horas",
+            "estabelecimento": "66289ac4-58c0-493a-8d54-2eda92aa1a75"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "94137bc8-a5c4-45b9-b0cf-8273cfebec67",
+        "fields": {
+            "local": "6gmp8s0w3j0",
+            "desc": "FEIJAO MALU PRTO 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.77",
+            "valor": "5.77",
+            "datahora": "2021-05-11T13:03:56.994Z",
+            "tempo": "há 20 minutos",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "29c84c31-a5f3-4dcc-b2a2-ccef2e91b48f",
+        "fields": {
+            "local": "6gmp8kxw2d0",
+            "desc": "FEIJAO MALU BRAN 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.77",
+            "valor": "5.77",
+            "datahora": "2021-05-11T12:46:53.104Z",
+            "tempo": "há 37 minutos",
+            "estabelecimento": "2bd66ad6-35e8-4b1d-aa13-631a20325750"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "757c6996-be80-403d-849a-9e8373596a24",
+        "fields": {
+            "local": "6gmp8kxw2d0",
+            "desc": "FEIJAO MALU PRTO 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.77",
+            "valor": "5.77",
+            "datahora": "2021-05-11T12:46:53.104Z",
+            "tempo": "há 37 minutos",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "9dad268f-c083-45f7-a91c-7c2da77f5753",
+        "fields": {
+            "local": "6gkzzbxrf70",
+            "desc": "FEIJAO MALU BRAN 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.77",
+            "valor": "5.77",
+            "datahora": "2021-05-11T13:20:44.668Z",
+            "tempo": "há 3 minutos",
+            "estabelecimento": "66289ac4-58c0-493a-8d54-2eda92aa1a75"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "09478d2f-a665-4852-833e-8cd3625b45c9",
+        "fields": {
+            "local": "6gkzzbxrf70",
+            "desc": "FEIJAO MALU PRTO 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.77",
+            "valor": "5.77",
+            "datahora": "2021-05-11T11:38:35.603Z",
+            "tempo": "há 2 horas",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "242740d0-0c92-4657-b4ce-b17fd37eface",
+        "fields": {
+            "local": "6gmpc192600",
+            "desc": "FEIJAO MALU PRTO 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.77",
+            "valor": "5.77",
+            "datahora": "2021-05-11T13:19:07.092Z",
+            "tempo": "há 5 minutos",
+            "estabelecimento": "66289ac4-58c0-493a-8d54-2eda92aa1a75"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "0455e085-9af6-4c48-be1d-d869c57115ea",
+        "fields": {
+            "local": "6gsbpg7jp10",
+            "desc": "FEIJAO MALU PRTO 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.77",
+            "valor": "5.77",
+            "datahora": "2021-05-11T12:26:11.005Z",
+            "tempo": "há uma hora",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "a3f58ae0-4930-4c10-95a8-5c10931cfda5",
+        "fields": {
+            "local": "6gmp2nyzdd0",
+            "desc": "FEIJAO MALU PRTO 1KG",
+            "valor_desconto": "0.20",
+            "valor_tabela": "5.99",
+            "valor": "5.79",
+            "datahora": "2021-05-09T15:47:28.882Z",
+            "tempo": "há 2 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d59"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "e85b6e59-f6d5-42a7-bdae-da6ebf4c886e",
+        "fields": {
+            "local": "6gmp8jzmwr0",
+            "desc": "FEIJAO B GARFO 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.79",
+            "valor": "5.79",
+            "datahora": "2021-05-11T12:22:43.661Z",
+            "tempo": "há uma hora",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "89a9efcc-46e3-47ac-9346-5f361c2d438a",
+        "fields": {
+            "local": "6gmp1myu270",
+            "desc": "FEIJAO PRETO CALDO DO CAMPO 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.79",
+            "valor": "5.79",
+            "datahora": "2021-05-09T13:41:16.935Z",
+            "tempo": "há 2 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "554ea327-c985-46b2-a10d-cae56e5c325a",
+        "fields": {
+            "local": "6gmp1qpes60",
+            "desc": "FEIJAO DA HORA 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.79",
+            "valor": "5.79",
+            "datahora": "2021-05-10T14:04:32.390Z",
+            "tempo": "há um dia",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "56c7924b-3b68-444d-9d36-775f0c2f74e3",
+        "fields": {
+            "local": "6gkyv201d60",
+            "desc": "FEIJAO TERRA NOSSA 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.79",
+            "valor": "5.79",
+            "datahora": "2021-05-09T13:38:01.618Z",
+            "tempo": "há 2 dias",
+            "estabelecimento": "2bd66ad6-35e8-4b1d-aa13-631a20325750"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "0c595746-9d83-4ccc-9974-6d8e468de2e4",
+        "fields": {
+            "local": "6gkyv201d60",
+            "desc": "FEIJAO TERRA NO 1KG PRET",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.79",
+            "valor": "5.79",
+            "datahora": "2021-05-06T14:39:32.036Z",
+            "tempo": "há 5 dias",
+            "estabelecimento": "38c550c7-23c4-4e21-8b42-40fb329e6f7b"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "648cab5b-546d-4c05-8ead-9b492321981b",
+        "fields": {
+            "local": "6gmp1uef870",
+            "desc": "FEIJAO PRETO CALDO DO CAMPO 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.79",
+            "valor": "5.79",
+            "datahora": "2021-05-08T16:43:09.060Z",
+            "tempo": "há 3 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "2c1c8ce5-e007-4980-94ac-9fce8364059e",
+        "fields": {
+            "local": "6gmp1yrqkr0",
+            "desc": "FEIJAO PRETO CALDO DO CAMPO 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.79",
+            "valor": "5.79",
+            "datahora": "2021-05-05T20:47:02.053Z",
+            "tempo": "há 6 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d59"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "5aac3d15-d914-4d12-b248-c7ac38f48b0b",
+        "fields": {
+            "local": "6gkyt7n12n0",
+            "desc": "FEIJAO TERRA NO 1KG PRET",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.79",
+            "valor": "5.79",
+            "datahora": "2021-05-11T02:00:11.506Z",
+            "tempo": "há 11 horas",
+            "estabelecimento": "38c550c7-23c4-4e21-8b42-40fb329e6f7b"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "d5007a69-7313-4d02-9a31-5664c2599076",
+        "fields": {
+            "local": "6gkyt7n12n0",
+            "desc": "FEIJAO TERRA NOSSA 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.79",
+            "valor": "5.79",
+            "datahora": "2021-05-07T13:52:54.649Z",
+            "tempo": "há 4 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "a80d4a3f-e11b-412f-b683-c16870812314",
+        "fields": {
+            "local": "6gkzy91gec0",
+            "desc": "FEIJAO PONTAROLL 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.88",
+            "valor": "5.88",
+            "datahora": "2021-05-09T23:00:36.734Z",
+            "tempo": "há 2 dias",
+            "estabelecimento": "66289ac4-58c0-493a-8d54-2eda92aa1a75"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "6281aadf-3945-4396-b08f-5e699ac11c18",
+        "fields": {
+            "local": "6gmp0xszh90",
+            "desc": "FEIJAO MALU TP1 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.89",
+            "valor": "5.89",
+            "datahora": "2021-05-11T12:38:50.357Z",
+            "tempo": "há uma hora",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "3a905272-632c-49e0-91ad-6d3f0288eed0",
+        "fields": {
+            "local": "6gmp2z6n580",
+            "desc": "FEIJAO MALU CORES 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.89",
+            "valor": "5.89",
+            "datahora": "2021-05-10T22:40:49.239Z",
+            "tempo": "há 15 horas",
+            "estabelecimento": "66289ac4-58c0-493a-8d54-2eda92aa1a75"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "5d6686ef-6695-4125-9fa0-83bc14268b3b",
+        "fields": {
+            "local": "6gmp110x2t0",
+            "desc": "FEIJAO PE VERMELHO 1KG BCO",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.89",
+            "valor": "5.89",
+            "datahora": "2021-05-01T16:32:02.133Z",
+            "tempo": "há 10 dias",
+            "estabelecimento": "2bd66ad6-35e8-4b1d-aa13-631a20325750"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "91e6997b-2620-4547-8e01-7430e12693cc",
+        "fields": {
+            "local": "6gmp110x2t0",
+            "desc": "FEIJAO PE VERM 1KG PRETO",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.89",
+            "valor": "5.89",
+            "datahora": "2021-05-01T16:11:04.535Z",
+            "tempo": "há 10 dias",
+            "estabelecimento": "2bd66ad6-35e8-4b1d-aa13-631a20325750"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "3e5b7188-240e-45df-a748-150c5386f635",
+        "fields": {
+            "local": "6gmp1qpes60",
+            "desc": "FEIJAO SUPER CALDO 1KG",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.89",
+            "valor": "5.89",
+            "datahora": "2021-05-10T21:31:01.103Z",
+            "tempo": "há 16 horas",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d59"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "653c5980-8717-45d3-92d1-62236e396ee7",
+        "fields": {
+            "local": "6gkzxfq01n0",
+            "desc": "FEIJAO PONTA 1KG COR",
+            "valor_desconto": "0.00",
+            "valor_tabela": "5.91",
+            "valor": "5.91",
+            "datahora": "2021-04-26T15:04:08.089Z",
+            "tempo": "há 15 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    }
+]

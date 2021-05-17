@@ -1,0 +1,688 @@
+[
+    {
+        "model": "produtos.produto",
+        "pk": "35cc9210-de98-4ac8-aab1-9d60556d1923",
+        "fields": {
+            "local": "6gkzq311qj0",
+            "desc": "LEITE ELEGE DESNATADO 1L",
+            "valor_desconto": "2.94",
+            "valor_tabela": "3.55",
+            "valor": "0.61",
+            "datahora": "2021-05-10T21:13:29.662Z",
+            "tempo": "há 16 horas",
+            "estabelecimento": "66289ac4-58c0-493a-8d54-2eda92aa1a75"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "449c0580-6f48-4f8c-b9e7-e145909cf078",
+        "fields": {
+            "local": "6gmn8w6szj0",
+            "desc": "LEITE CANCELA PCT 1L",
+            "valor_desconto": "2.72",
+            "valor_tabela": "3.55",
+            "valor": "0.83",
+            "datahora": "2021-05-10T12:01:13.575Z",
+            "tempo": "há um dia",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d59"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "497dfa62-5dbc-4447-b986-b1bc01ed7bfb",
+        "fields": {
+            "local": "6gkzq1b4q80",
+            "desc": "LEITE ELEGE SEMI DESNATADO 1L",
+            "valor_desconto": "2.68",
+            "valor_tabela": "3.55",
+            "valor": "0.87",
+            "datahora": "2021-05-10T22:31:08.525Z",
+            "tempo": "há 15 horas",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d59"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "30b13a26-cc77-4240-8b20-cadfbca74c60",
+        "fields": {
+            "local": "6gmp2p0yvf0",
+            "desc": "LEITE TIROL TP 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "0.99",
+            "valor": "0.99",
+            "datahora": "2021-05-11T12:54:39.460Z",
+            "tempo": "há 23 minutos",
+            "estabelecimento": "66289ac4-58c0-493a-8d54-2eda92aa1a75"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "754f3e19-6ce5-428f-be1e-d383092518be",
+        "fields": {
+            "local": "6gmp0xszh90",
+            "desc": "LEITE TIROL TP 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "1.29",
+            "valor": "1.29",
+            "datahora": "2021-05-11T12:23:01.170Z",
+            "tempo": "há uma hora",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "a531285b-d809-4662-b8b3-d5ddb4137fd6",
+        "fields": {
+            "local": "6gkyykhgen0",
+            "desc": "LEITE TIROL TP 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "1.29",
+            "valor": "1.29",
+            "datahora": "2021-05-11T13:02:01.735Z",
+            "tempo": "há 15 minutos",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "a17c90bb-17a3-42a8-97ba-b9f59facdd50",
+        "fields": {
+            "local": "6gkzhy0qn20",
+            "desc": "LEITE TIROL TP 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "1.29",
+            "valor": "1.29",
+            "datahora": "2021-05-11T12:53:21.934Z",
+            "tempo": "há 24 minutos",
+            "estabelecimento": "2bd66ad6-35e8-4b1d-aa13-631a20325750"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "a72534ca-efde-4ba6-807b-0f12eefa710c",
+        "fields": {
+            "local": "6gkzn79kkf0",
+            "desc": "LEITE TIROL PREMIARE 0 LACTOSE 1L",
+            "valor_desconto": "6.08",
+            "valor_tabela": "7.60",
+            "valor": "1.52",
+            "datahora": "2021-04-26T15:48:10.401Z",
+            "tempo": "há 15 dias",
+            "estabelecimento": "38c550c7-23c4-4e21-8b42-40fb329e6f7b"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "850f800a-f36d-4535-bc94-b126cfa122ee",
+        "fields": {
+            "local": "6gkzq311qj0",
+            "desc": "LEITE QUALITAT INTEGRAL PCT 1L",
+            "valor_desconto": "2.32",
+            "valor_tabela": "3.99",
+            "valor": "1.67",
+            "datahora": "2021-05-11T12:17:37.455Z",
+            "tempo": "há uma hora",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "c2f7496e-47dd-40c3-9859-37ff78b6575b",
+        "fields": {
+            "local": "6gkzn3u7zf0",
+            "desc": "LEITE TIROL TP 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "1.69",
+            "valor": "1.69",
+            "datahora": "2021-05-11T13:14:37.823Z",
+            "tempo": "há 3 minutos",
+            "estabelecimento": "2bd66ad6-35e8-4b1d-aa13-631a20325750"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "3e721477-31b2-4421-a75e-6a8a510d9468",
+        "fields": {
+            "local": "6gkzt7uju80",
+            "desc": "LEITE DESNATADO TIROL 1L",
+            "valor_desconto": "0.07",
+            "valor_tabela": "1.99",
+            "valor": "1.92",
+            "datahora": "2021-05-11T13:12:02.545Z",
+            "tempo": "há 5 minutos",
+            "estabelecimento": "2bd66ad6-35e8-4b1d-aa13-631a20325750"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "3f0c1d07-49e7-4829-a6a6-67bf8b7cb135",
+        "fields": {
+            "local": "6gkznqj7yq0",
+            "desc": "LEITE PARMALAT DESNATADO GFA 1L",
+            "valor_desconto": "1.95",
+            "valor_tabela": "3.89",
+            "valor": "1.94",
+            "datahora": "2021-05-11T00:13:37.745Z",
+            "tempo": "há 13 horas",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d59"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "0e08b561-a5c4-4a49-b9b4-74e036fb132f",
+        "fields": {
+            "local": "6gkyykhgen0",
+            "desc": "LEITE PARMALAT TP 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "1.97",
+            "valor": "1.97",
+            "datahora": "2021-05-04T13:14:30.611Z",
+            "tempo": "há 7 dias",
+            "estabelecimento": "2bd66ad6-35e8-4b1d-aa13-631a20325750"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "9f8f39d0-d3b0-4d02-8568-dea13842f4a0",
+        "fields": {
+            "local": "6gmnbffudg0",
+            "desc": "LEITE TIROL TP 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "1.98",
+            "valor": "1.98",
+            "datahora": "2021-05-04T12:38:54.849Z",
+            "tempo": "há 7 dias",
+            "estabelecimento": "38c550c7-23c4-4e21-8b42-40fb329e6f7b"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "fdcadaf0-53c0-41af-83af-f94ac3bc1a56",
+        "fields": {
+            "local": "6gkzpcjmmu0",
+            "desc": "LEITE COLONIA HOLANDESA DESNATADO UHT 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "1.99",
+            "valor": "1.99",
+            "datahora": "2021-05-06T16:22:07.746Z",
+            "tempo": "há 5 dias",
+            "estabelecimento": "2bd66ad6-35e8-4b1d-aa13-631a20325750"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "7bdbe272-0c1d-40df-847a-6693c344d283",
+        "fields": {
+            "local": "6gkzxumf410",
+            "desc": "LEITE COLONIA HOLANDESA SEMID UHT 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.29",
+            "valor": "2.29",
+            "datahora": "2021-04-28T15:25:36.938Z",
+            "tempo": "há 13 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "1f01bf19-4bda-4d97-b97a-f0a54f3d5788",
+        "fields": {
+            "local": "6gkzxumf410",
+            "desc": "LEITE COLONIA HOLANDESA DESNATADO UHT 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.29",
+            "valor": "2.29",
+            "datahora": "2021-05-01T12:37:30.062Z",
+            "tempo": "há 10 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "0501bca9-1b14-4a45-b71f-f42f6cab0c90",
+        "fields": {
+            "local": "6gkzt11c460",
+            "desc": "LEITE COLONIA HOLANDESA DESNATADO UHT 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.39",
+            "valor": "2.39",
+            "datahora": "2021-05-01T13:51:25.179Z",
+            "tempo": "há 10 dias",
+            "estabelecimento": "2bd66ad6-35e8-4b1d-aa13-631a20325750"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "d227f8c6-4378-4d56-ba15-da17add91832",
+        "fields": {
+            "local": "6gkznveh4y0",
+            "desc": "QA LEITE L V INT 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.44",
+            "valor": "2.44",
+            "datahora": "2021-05-06T11:55:07.088Z",
+            "tempo": "há 5 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "dd636a68-55f2-41fc-9795-9248c911cbff",
+        "fields": {
+            "local": "6gkzq7p9r80",
+            "desc": "LEITE FRIMESA SQUARE L V.DESN 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.49",
+            "valor": "2.49",
+            "datahora": "2021-05-11T10:46:55.346Z",
+            "tempo": "há 3 horas",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d59"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "19f3fb84-a2a1-4c07-b142-eb26d8715ee9",
+        "fields": {
+            "local": "6gkyveg0gg0",
+            "desc": "LEITE SEMIDESNATADO PIRACANJUBA 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.49",
+            "valor": "2.49",
+            "datahora": "2021-05-08T18:21:14.585Z",
+            "tempo": "há 3 dias",
+            "estabelecimento": "38c550c7-23c4-4e21-8b42-40fb329e6f7b"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "c3964f77-5e94-41d9-bd2c-8f7f349d51e4",
+        "fields": {
+            "local": "6gmp2u5jc20",
+            "desc": "LEITE CASTROLANDA NATURALLE INTEG UHT 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.59",
+            "valor": "2.59",
+            "datahora": "2021-05-05T20:47:23.996Z",
+            "tempo": "há 6 dias",
+            "estabelecimento": "2bd66ad6-35e8-4b1d-aa13-631a20325750"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "5b783fa2-b5b7-4872-b349-211f4e565e89",
+        "fields": {
+            "local": "6gkzqtzuvj0",
+            "desc": "LEITE COLONIA HOLANDESA DESNATADO UHT 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.69",
+            "valor": "2.69",
+            "datahora": "2021-05-06T13:48:52.369Z",
+            "tempo": "há 5 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "44a222bd-e935-4017-9906-167a0549a421",
+        "fields": {
+            "local": "6gkznw7v2g0",
+            "desc": "LEITE COLONIA HOLANDESA DESNATADO UHT 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.69",
+            "valor": "2.69",
+            "datahora": "2021-05-07T14:04:49.264Z",
+            "tempo": "há 4 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "0785ed71-87e3-48df-aaae-2be67c3b00fd",
+        "fields": {
+            "local": "6gkzq1d10t0",
+            "desc": "LEITE COLONIA HOLANDESA INTEG UHT 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.69",
+            "valor": "2.69",
+            "datahora": "2021-04-26T16:14:23.348Z",
+            "tempo": "há 15 dias",
+            "estabelecimento": "2bd66ad6-35e8-4b1d-aa13-631a20325750"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "f1d193b4-f72c-4e95-9810-b937d0d81e66",
+        "fields": {
+            "local": "6gkzq1d10t0",
+            "desc": "LEITE COLONIA HOLANDESA SEMID UHT 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.69",
+            "valor": "2.69",
+            "datahora": "2021-04-28T19:05:21.085Z",
+            "tempo": "há 13 dias",
+            "estabelecimento": "38c550c7-23c4-4e21-8b42-40fb329e6f7b"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "8a980d9d-6ea7-4397-a963-82785dfb7cef",
+        "fields": {
+            "local": "6gkzq1d10t0",
+            "desc": "LEITE COLONIA HOLANDESA DESNATADO UHT 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.69",
+            "valor": "2.69",
+            "datahora": "2021-05-05T18:22:21.819Z",
+            "tempo": "há 6 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d59"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "3c351bc1-f271-447d-9979-71a3b696ef20",
+        "fields": {
+            "local": "6gkzq1d10t0",
+            "desc": "LEITE CASTROLANDA NATURALLE DESN UHT 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.69",
+            "valor": "2.69",
+            "datahora": "2021-05-08T14:53:59.139Z",
+            "tempo": "há 3 dias",
+            "estabelecimento": "66289ac4-58c0-493a-8d54-2eda92aa1a75"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "3b9fa9ed-f102-4e7e-a0c3-3cdfc727fbb6",
+        "fields": {
+            "local": "6gkzn02u6y0",
+            "desc": "LEITE COLONIA HOLANDESA DESNATADO UHT 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.69",
+            "valor": "2.69",
+            "datahora": "2021-05-06T17:40:33.604Z",
+            "tempo": "há 5 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "d83c93d8-be03-44f0-b8ec-169ef5452f32",
+        "fields": {
+            "local": "6gkzmh169u0",
+            "desc": "LEITE COLONIA HOLANDESA SEMID UHT 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.69",
+            "valor": "2.69",
+            "datahora": "2021-04-29T15:16:21.694Z",
+            "tempo": "há 12 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "cc421564-0a79-4f98-a065-fd854ab2fa02",
+        "fields": {
+            "local": "6gkzmh169u0",
+            "desc": "LEITE COLONIA HOLANDESA DESNATADO UHT 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.69",
+            "valor": "2.69",
+            "datahora": "2021-04-29T18:14:28.411Z",
+            "tempo": "há 12 dias",
+            "estabelecimento": "66289ac4-58c0-493a-8d54-2eda92aa1a75"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "1681d619-9173-40a0-a9e0-e68d4b780d8d",
+        "fields": {
+            "local": "6gkzjhgy0j0",
+            "desc": "LEITE COLONIA HOLANDESA DESNATADO UHT 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.69",
+            "valor": "2.69",
+            "datahora": "2021-05-07T12:57:44.298Z",
+            "tempo": "há 4 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "759e094e-14d0-49d1-a98f-d9a5af8d4a1c",
+        "fields": {
+            "local": "6gkzjhgy0j0",
+            "desc": "LEITE COLONIA HOLANDESA INTEG UHT 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.69",
+            "valor": "2.69",
+            "datahora": "2021-05-03T19:39:17.799Z",
+            "tempo": "há 8 dias",
+            "estabelecimento": "38c550c7-23c4-4e21-8b42-40fb329e6f7b"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "f53b426e-2eec-4441-a0e0-4b64b5d61280",
+        "fields": {
+            "local": "6gkzt11c460",
+            "desc": "LEITE COLONIA HOLANDESA ZERO LAC 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.69",
+            "valor": "2.69",
+            "datahora": "2021-05-01T14:11:12.145Z",
+            "tempo": "há 10 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d59"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "cc68ea37-7f84-4b9f-9a9e-d83f3f305202",
+        "fields": {
+            "local": "6gmp2u5jc20",
+            "desc": "LEITE CASTROLANDA NATURALLE INTEG UHT 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.69",
+            "valor": "2.69",
+            "datahora": "2021-05-02T13:03:56.599Z",
+            "tempo": "há 9 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d59"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "f542fbb6-f743-4c2e-99bc-5b1527d58412",
+        "fields": {
+            "local": "6gmp8zpgve0",
+            "desc": "LEIT LV AUR DES 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.69",
+            "valor": "2.69",
+            "datahora": "2021-05-08T21:39:52.476Z",
+            "tempo": "há 3 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "e2172b9d-4617-4326-9899-57c8f8fb9da4",
+        "fields": {
+            "local": "6gmp8zpgve0",
+            "desc": "LEIT LV TIROL DES 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.69",
+            "valor": "2.69",
+            "datahora": "2021-04-28T13:23:42.158Z",
+            "tempo": "há 13 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d59"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "e4d82dd5-140e-46db-a383-5354e8532af3",
+        "fields": {
+            "local": "6gmn8remyw0",
+            "desc": "LEITE FRIMESA INTEG UHT 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.69",
+            "valor": "2.69",
+            "datahora": "2021-05-06T18:29:43.709Z",
+            "tempo": "há 5 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "27201984-9538-46b0-9dce-c2653a33cf13",
+        "fields": {
+            "local": "6gmpdjcmm30",
+            "desc": "LEIT LV TIROL SEM 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.69",
+            "valor": "2.69",
+            "datahora": "2021-04-29T18:13:05.245Z",
+            "tempo": "há 12 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "05bcef8a-2001-4d63-a78f-c4a2ae152d49",
+        "fields": {
+            "local": "6gkzhp3smx0",
+            "desc": "LEITE LONGA V LIDER 1L",
+            "valor_desconto": "0.29",
+            "valor_tabela": "2.99",
+            "valor": "2.70",
+            "datahora": "2021-05-01T13:37:51.107Z",
+            "tempo": "há 10 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "d116e018-1f1f-424e-a3bc-5820d6b7a7f4",
+        "fields": {
+            "local": "6gkznqj7yq0",
+            "desc": "LEITE BATAVO SEMI DESNATADO TP 1L",
+            "valor_desconto": "1.06",
+            "valor_tabela": "3.79",
+            "valor": "2.73",
+            "datahora": "2021-05-11T13:06:39.467Z",
+            "tempo": "há 11 minutos",
+            "estabelecimento": "38c550c7-23c4-4e21-8b42-40fb329e6f7b"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "1439f30c-7ab3-439b-8492-8c3295bbdb40",
+        "fields": {
+            "local": "6gmp0xszh90",
+            "desc": "LEITE PARMALAT TP 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.73",
+            "valor": "2.73",
+            "datahora": "2021-05-11T12:37:36.784Z",
+            "tempo": "há 40 minutos",
+            "estabelecimento": "66289ac4-58c0-493a-8d54-2eda92aa1a75"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "d5baff83-b4c9-42ef-8e2c-831565b291c9",
+        "fields": {
+            "local": "6gmp0t4xjf0",
+            "desc": "LEITE L V INT 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.75",
+            "valor": "2.75",
+            "datahora": "2021-05-08T16:31:12.598Z",
+            "tempo": "há 3 dias",
+            "estabelecimento": "66289ac4-58c0-493a-8d54-2eda92aa1a75"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "ff1a9bf0-d125-49c7-80ac-578d99437f22",
+        "fields": {
+            "local": "6gkyy5p0450",
+            "desc": "LEITE COLONIA HOLANDESA SEMID UHT 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.75",
+            "valor": "2.75",
+            "datahora": "2021-04-29T12:43:23.828Z",
+            "tempo": "há 12 dias",
+            "estabelecimento": "2bd66ad6-35e8-4b1d-aa13-631a20325750"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "b06153bc-2d07-462a-a54f-5dbd1f6dab15",
+        "fields": {
+            "local": "6gkyy5p0450",
+            "desc": "LEITE COLONIA HOLANDESA DESNATADO UHT 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.75",
+            "valor": "2.75",
+            "datahora": "2021-04-30T17:42:38.796Z",
+            "tempo": "há 11 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d59"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "6014527e-6a77-46de-a292-5f295093d965",
+        "fields": {
+            "local": "6gkzq1b4q80",
+            "desc": "LEITE PARMALAT INTEGRAL TP 1L",
+            "valor_desconto": "0.71",
+            "valor_tabela": "3.49",
+            "valor": "2.78",
+            "datahora": "2021-05-11T00:03:05.686Z",
+            "tempo": "há 13 horas",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "ec748330-ed82-4945-acf3-e1f40c6b8308",
+        "fields": {
+            "local": "6gkznqj7yq0",
+            "desc": "LEITE QUALITAT INTEGRAL PCT 1L",
+            "valor_desconto": "1.20",
+            "valor_tabela": "3.99",
+            "valor": "2.79",
+            "datahora": "2021-05-11T00:14:31.702Z",
+            "tempo": "há 13 horas",
+            "estabelecimento": "2bd66ad6-35e8-4b1d-aa13-631a20325750"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "65bc6cd5-dca2-4219-88d0-bb9788782480",
+        "fields": {
+            "local": "6gkzq1d10t0",
+            "desc": "LEITE FRIMESA DESNATADO UHT 1L",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.79",
+            "valor": "2.79",
+            "datahora": "2021-04-29T14:11:36.305Z",
+            "tempo": "há 12 dias",
+            "estabelecimento": "07012e3f-57d7-418d-aa26-d05c27471d58"
+        }
+    },
+    {
+        "model": "produtos.produto",
+        "pk": "186e80cb-0e19-479e-b135-233e47db3b46",
+        "fields": {
+            "local": "6gkzrcm89m0",
+            "desc": "LEITE TIROL 1L DESNATADO",
+            "valor_desconto": "0.00",
+            "valor_tabela": "2.79",
+            "valor": "2.79",
+            "datahora": "2021-05-10T21:51:19.120Z",
+            "tempo": "há 15 horas",
+            "estabelecimento": "66289ac4-58c0-493a-8d54-2eda92aa1a75"
+        }
+    }
+]
